@@ -1,0 +1,26 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #E6E6FA;
+}
+
+.header {
+  background-color: #4B0082;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.main {
+  flex: 1;
+  padding: 20px;
+  width: 100%;
+}
+
+.footer {
+  background-color: #1d1160;
+  color: white;
+  text-align: center;
+  padding: 10px 20px;
+}
